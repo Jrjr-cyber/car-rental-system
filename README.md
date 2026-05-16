@@ -58,7 +58,7 @@ A complete, modern, and responsive web application for car rental services built
 
 ### 1. Download the Project
 ```bash
-git clone https://github.com/your-username/car-rental-system.git
+git clone https://github.com/Jrjr-cyber/car-rental-system.git
 cd car-rental-system
 ```
 
